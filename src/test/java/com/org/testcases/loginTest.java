@@ -10,7 +10,7 @@ import com.org.pages.LoginPage;
 import com.org.utility.ITestListener_TestNG;
 
 @Listeners(ITestListener_TestNG.class)
-public class LoginTest extends BaseClass {
+public class loginTest extends BaseClass {
 	
 
 	@Test
